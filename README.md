@@ -83,8 +83,5 @@ HealthAI Assistant is a smart web-based healthcare platform designed to enhance 
 - `POST /appointments/book`
 - `POST /symptom/analyze`
 
-## 🔗 Project Repository
-
-[GitHub – HealthAI Assistant](https://github.com/sruthibasineni/symptom-scribe-gemini-guide/tree/ccfaaa13f6943640e3583f860be6aac3d6ec864f)
 
  
